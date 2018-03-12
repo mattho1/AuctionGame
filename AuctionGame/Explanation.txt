@@ -1,0 +1,1 @@
+Do poprawnego dzia³ania programu nale¿y umieœciæ razem z plikiem wykonywalnym pliki ze zdjeciami i plik tekstowy (Date.txt) do³¹czone do projektu.
